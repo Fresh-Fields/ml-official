@@ -7,6 +7,9 @@ lib64
 share
 pyvenv.cfg
 
+out/*
+temp
+
 # jatin's gitignore entries #
 
 # anjali's gitignore entries #
