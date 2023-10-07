@@ -10,6 +10,8 @@ pyvenv.cfg
 out/*
 temp
 
+*.py
+
 # jatin's gitignore entries #
 
 # anjali's gitignore entries #
