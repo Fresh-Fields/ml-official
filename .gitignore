@@ -8,6 +8,7 @@ share
 pyvenv.cfg
 
 out/*
+!out
 temp
 
 *.py
