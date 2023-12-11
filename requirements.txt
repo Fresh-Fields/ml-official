@@ -2,5 +2,6 @@ pandas
 numpy
 scikit-learn
 seaborn
+tensorflow
 ipykernel # for vscode
 nbconvert # for convenience
