@@ -11,6 +11,7 @@ out/*
 !out
 temp
 
+venv
 *.py
 
 # jatin's gitignore entries #
