@@ -7,10 +7,6 @@ lib64
 share
 pyvenv.cfg
 
-out/*
-!out
-temp
-
 venv
 *.py
 
